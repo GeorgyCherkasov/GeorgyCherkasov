@@ -14,7 +14,8 @@
 ---
 
 ## 🔭 <span style="font-family: 'JetBrains Mono', monospace;">Currently working on...</span>
-*Coming soon...*
+[![Whisperly](https://svg.bookmark.style/api?url=https://github.com/lnewtium/whisperly&mode=dark&style=horizontal)](https://github.com/lnewtium/whisperly)
+
 
 ---
 
